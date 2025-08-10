@@ -13,10 +13,13 @@ Passionate about technology, known for versatility and commitment to excellence.
 
 ## 💻 Tech Stack
 - HTML5 / CSS3
-- PHP / MySQL / ORACLE
+- PHP (Laravel) / MySQL / ORACLE
 - Java
 - JavaScript / TypeScript
+- React (NextJS), React Native
+- Livewire
 - Python
+- TailwindCSS
 
 ## 🌐 Interests
 - Travel, excursions, music
